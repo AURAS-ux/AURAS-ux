@@ -1,66 +1,64 @@
-# Hi there, I'm AURAS 👋
+# AURAS
 
-## 🚀 About Me
-I'm a passionate software developer with a strong focus on game development, artificial intelligence, and full-stack web applications. I love building interactive experiences and solving complex problems through code.
+QA Automation Engineer | Backend Engineer | Agentic AI Builder
 
-## 💻 Tech Stack & Skills
+I build backend systems, test automation frameworks, and AI-assisted tooling with a bias toward reliability and clean execution. I have 3+ years of hands-on QA experience, ISTQB Foundation Level certification, and experience across C#, Python, Java, Groovy, and C++. My work spans GitHub and Codeberg.
 
-### Languages
+## What I Focus On
+- Backend services and APIs for real-time or data-heavy systems
+- Test automation, regression coverage, and framework design
+- Agentic AI prototypes and integrations, including Gemini-based workflows
+- Practical cross-platform development in .NET and Python
+
+## Core Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks & Technologies
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6A00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-2C2D72?style=for-the-badge&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+## Selected Work
 
-## 🎮 Featured Projects
+### Public repositories
+- [CarInsurance.Api](https://github.com/AURAS-ux/CarInsurance.Api) - Public. C# / .NET backend API.
+- [CarInsurance.Test](https://github.com/AURAS-ux/CarInsurance.Test) - Public. Automated tests for the CarInsurance platform.
+- [TokeroTests](https://github.com/AURAS-ux/TokeroTests) - Public. Test automation repository.
+- [aplicatie-enterprise](https://github.com/AURAS-ux/aplicatie-enterprise) - Public. Java enterprise application.
+- [licenta-ui](https://github.com/AURAS-ux/licenta-ui) - Public. TypeScript application.
+- [AntiTerapia](https://github.com/AURAS-ux/AntiTerapia) - Public. Google Student AI Hackathon project with Gemini integration.
+- [K-MeansClustering](https://github.com/AURAS-ux/K-MeansClustering) - Public. Python AI / clustering project.
+- [Inteligenta-Artificiala-Winner_Takes_All](https://github.com/AURAS-ux/Inteligenta-Artificiala-Winner_Takes_All) - Public. Python AI coursework project.
 
-### Game Development
-- **[ShinosRange](https://github.com/AURAS-ux/ShinosRange)** - Test game built with Godot Engine and C#
-- **[DowntownMayhem](https://github.com/AURAS-ux/DowntownMayhem)** - Space Invaders inspired game using Godot and C#
-- **[prot_alpha](https://github.com/AURAS-ux/prot_alpha)** - Basic game prototype using SFML library and C++
-- **[ParticleSystem-SFML-DOTNET](https://github.com/AURAS-ux/ParticleSystem-SFML-DOTNET)** - Particle system implementation with SFML and .NET
-- **[TileMap-SFML-DOTNET](https://github.com/AURAS-ux/TileMap-SFML-DOTNET)** - Tilemap system using SFML and .NET
+### Private repositories
+- [Mixon](https://github.com/AURAS-ux/Mixon) - Private. .NET MAUI app with ASP.NET Core backend and Firebase.
+- [xperiGui](https://github.com/AURAS-ux/xperiGui) - Private. Python facial-detection prototype from internship work.
+- [HidJem-Spec-Kit](https://github.com/AURAS-ux/HidJem-Spec-Kit) - Private. C# repository.
+- [Mindguardian-v2-GIT](https://github.com/AURAS-ux/Mindguardian-v2-GIT) - Private. C# repository.
+- [FleetSense](https://github.com/AURAS-ux/FleetSense) - Private. Java repository.
 
-### Artificial Intelligence
-- **[K-MeansClustering](https://github.com/AURAS-ux/K-MeansClustering)** - Implementation of K-Means clustering algorithm
-- **[Inteligenta-Artificiala-Winner_Takes_All](https://github.com/AURAS-ux/Inteligenta-Artificiala-Winner_Takes_All)** - Winner Takes All algorithm implementation
+### Codeberg
+- [Mindguardian](https://codeberg.org/AurasPaltanea/Mindguardian) - Public. Kotlin project on Codeberg.
+- [graph-hero](https://codeberg.org/AurasPaltanea/graph-hero) - Public. C# project on Codeberg.
 
-### Web Development
-- **[licenta-ui](https://github.com/AURAS-ux/licenta-ui)** - TypeScript-based web application
-- **[game-hub2](https://github.com/AURAS-ux/game-hub2)** - Gaming hub built with TypeScript
+## Experience Snapshot
+- QA Automation Engineer at in-tech engineering services SRL, focused on backend platform testing, integration suites, and regression coverage.
+- Migrated legacy ReadyAPI suites into an in-house framework and built reusable automation utilities to cut boilerplate.
+- Built a Raspberry Pi-based facial recognition prototype during an internship at Xperi Brașov.
+- Completed a practice project at Preh involving C and register-level programming for a heartbeat tracking device.
 
-### Desktop Applications
-- **[CarInsurance.Api](https://github.com/AURAS-ux/CarInsurance.Api)** - Car insurance API built with C# and .NET
-- **[Calculator](https://github.com/AURAS-ux/Calculator)** - Calculator application using WPF.NET
-- **[aplicatie-enterprise](https://github.com/AURAS-ux/aplicatie-enterprise)** - Enterprise application built with Java
+## Education
+- Master’s Degree, Modern Technologies in the Software Industry, Transilvania University of Brașov
+- Bachelor’s Degree, Computer Science, Transilvania University of Brașov
 
-### Classic Games & Learning Projects
-- **[day20SnakeGame](https://github.com/AURAS-ux/day20SnakeGame)** - Classic Snake game in Python
-- **[Day22_Pong](https://github.com/AURAS-ux/Day22_Pong)** - Pong game implementation in Python
-- **[day23_TurtleCrossing](https://github.com/AURAS-ux/day23_TurtleCrossing)** - Turtle crossing game in Python
-
-## 🌱 Currently Learning
-- Advanced game development techniques
-- Machine Learning and AI algorithms
-- Full-stack web development with modern frameworks
-- Enterprise application development
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AURAS-ux&show_icons=true&theme=radical)
-
-## 📫 Connect With Me
-Feel free to explore my repositories and reach out if you'd like to collaborate on interesting projects!
+## Contact
+- LinkedIn: linkedin.com/in/auras-paltanea-b5650b22b
+- GitHub: github.com/AURAS-ux
+- Codeberg: codeberg.org/AurasPaltanea
+- Location: Brașov, Romania
 
 ---
-⭐️ From [AURAS-ux](https://github.com/AURAS-ux)
+⭐ From [AURAS-ux](https://github.com/AURAS-ux)
